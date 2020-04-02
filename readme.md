@@ -3,8 +3,8 @@
 #### POC Details
 
 - Fetch Place Details from Google Place API.
-- Store information that received From Google Place API into Postgres using JSONB.
-- Query JSON and retrieve to Go struct.
+- Store information that received from Google Place API into PostgresSQL as JSONB datatype.
+- Query JSONB and retrieve to Go struct.
 
 #### PostgresSQL Document 
 ```
