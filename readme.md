@@ -1,6 +1,6 @@
-#poc postgresSQL store json in tables
+# POC PostgresSQL insert and query JSONB in Golang
 
-#Document 
+#PostgresSQL Document 
 ```
 https://www.postgresqltutorial.com/postgresql-json/
 ```
